@@ -1,7 +1,7 @@
 <h1>Scott Davis Transcript</h1>
 <h2>Open Source Data Science Masters</h2>
 
-<br>I'm going to have some time for indepedent study this year so I plan to work through as much as possible.  I work in the real estate industry and we have so much data that isn't used for meaningful analysis and the tools, though readily available, haven't caught up for the needs of real estate users.  That's what I'm interested in working on.  I use a lot of GIS and R, so my curriculum is tailored to follow [R](https://www.r-project.org/)/[Python](www.python.org) and [QGIS](www.qgis.org).  I'm a bit of an open-source nut so I like learning much better this way.  I'm looking for people to connect with, and possibly to work on projects.<br>
+<br>I'm going to have some time for independent study this year so I plan to work through as much as possible.  I work in the real estate industry and we have so much data that isn't used for meaningful analysis and the tools, though readily available, haven't caught up for the needs of real estate users.  That's what I'm interested in working on.  I use a lot of GIS and R, so my curriculum is tailored to follow [R](https://www.r-project.org/)/[Python](www.python.org) and [QGIS](www.qgis.org).  I'm a bit of an open-source nut so I like learning much better this way.  I'm looking for people to connect with, and possibly to work on projects.<br>
 
 Want to collaborate? Get in touch: 
  * [linkedin](http://www.linkedin.com/in/scottcdavis);
@@ -127,7 +127,7 @@ PostGIS/PostGRESQL:
  - [X] BA in Liberal Arts, concentration in geography, UT-Austin
 
 <h2>OpenSource Data Science Masters Capstone Project</h2>
-I'm interesting in using data science approaches for better intelligence behind real estate decisions, specifically evaluating population growth, transactions and location decisions.  I'd also like to evaluate statistical learning technqiues to make better pricing decisions.  Finally, I'd like to develop a model to optimize real estate portfolios.
+I'm interested in using data science approaches for better intelligence behind real estate decisions, specifically evaluating population growth, transactions and location decisions.  I'd also like to evaluate statistical learning techniques to make better pricing decisions.  Finally, I'd like to develop a model to optimize real estate portfolios.
 
 If you'd like to pair up for the capstone, [let me know](http://www.twitter.com/scottdavisCRE)
 
